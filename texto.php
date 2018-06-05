@@ -12,7 +12,7 @@
 			fputs($ar,"\t");
 			fputs($ar,$_POST['comentarios']);
 			fputs($ar,"\t");
-			fputs($ar,"--------------------------------------------------------");
+			fputs($ar,"----echo "# php-files" >> README.md----------------------------------------------------");
 			fputs($ar,"\n");
 			fclose($ar);
 			echo "Los datos se cargaron correctamente.";
